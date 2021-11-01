@@ -168,3 +168,5 @@ C:\Users\radee\source\repos\CoffeeShopWebApp\CoffeeShopWebApp\obj\Debug\netcorea
 C:\Users\radee\source\repos\CoffeeShopWebApp\CoffeeShopWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Coffees\Details.cshtml.g.cs
 C:\Users\radee\source\repos\CoffeeShopWebApp\CoffeeShopWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Coffees\Edit.cshtml.g.cs
 C:\Users\radee\source\repos\CoffeeShopWebApp\CoffeeShopWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Coffees\Index.cshtml.g.cs
+C:\Users\radee\source\repos\CoffeeShopWebApp\CoffeeShopWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registration.cshtml.g.cs
+C:\Users\radee\source\repos\CoffeeShopWebApp\CoffeeShopWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
